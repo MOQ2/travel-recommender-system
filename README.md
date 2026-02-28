@@ -3,10 +3,7 @@
 This repository contains the core data pipeline, analysis scripts, and notebooks for a multimodal travel recommendation/classification project.
 
 The project focuses on combining text and image-derived signals to analyze destination preferences and generate model/report artifacts.
-## Demo
 
-
-https://github.com/user-attachments/assets/8e4a49a3-e400-4d0b-a72c-91531b437c8e
 
 
 
