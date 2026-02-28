@@ -1,0 +1,23 @@
+{
+  "Dataset Overview": {
+    "Total Students": 88,
+    "Total Records": 955,
+    "Unique Places": 955,
+    "Unique Countries": 89,
+    "Avg Places per Student": "10.85"
+  },
+  "Metadata Categories": {
+    "Weather Types": 5,
+    "Activity Types": 4,
+    "Mood Categories": 5
+  },
+  "Class Imbalance": {
+    "Weather Imbalance Ratio": "87.11",
+    "Activity Imbalance Ratio": "5.95",
+    "Mood Imbalance Ratio": "194.00"
+  },
+  "Place Popularity": {
+    "Unique Places (1 student only)": "895 (93.7%)",
+    "Shared Places (2+ students)": "0 (0.0%)"
+  }
+}

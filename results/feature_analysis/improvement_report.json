@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-01-12T21:36:15.252046",
+  "improvements": {
+    "missing_images_fixed": 261,
+    "strategy": "Replaced zero vectors with mean image embedding",
+    "normalization_added": true,
+    "feature_lookup_created": true
+  },
+  "image_failures": {
+    "total": 261,
+    "breakdown": {
+      "missing_path": 259,
+      "file_not_found": 0,
+      "corrupted": 2,
+      "other": 0
+    },
+    "percentage": 27.329842931937172
+  },
+  "feature_quality": {
+    "original_pretrained": {
+      "mean_similarity": 0.3629525453471678,
+      "std_similarity": 0.30874121762743184
+    },
+    "improved_pretrained": {
+      "mean_similarity": 0.7299461445001214,
+      "std_similarity": 0.12255853265036959
+    },
+    "normalized": {
+      "mean_similarity": -0.0026394357880743114,
+      "std_similarity": 0.09073135620472084
+    }
+  },
+  "recommendations": [
+    "Use 'places_features_pretrained_normalized.npy' for KNN baseline (best performance)",
+    "Load training_pairs.csv from Task 1.4 (has negative samples)",
+    "Use get_pair_features() function to map pairs to features",
+    "Test both simple and pre-trained features to compare",
+    "Try different k values (5, 7, 10) and distance metrics (euclidean, cosine)"
+  ],
+  "files_created": [
+    "places_features_pretrained_improved.npy",
+    "places_features_simple_normalized.npy",
+    "places_features_pretrained_normalized.npy",
+    "places_features_simple_minmax.npy",
+    "places_features_pretrained_minmax.npy"
+  ]
+}

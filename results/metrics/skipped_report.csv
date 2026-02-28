@@ -1,0 +1,2 @@
+file,reason,missing_columns,encoding
+2933139-1220280.csv,"Unable to decode with ['utf-8', 'cp1252', 'latin1', 'utf-16', 'utf-16le', 'utf-16be', 'iso-8859-1']",,

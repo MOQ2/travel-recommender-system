@@ -1,0 +1,13 @@
+{
+  "k": 1,
+  "distance_metric": "euclidean",
+  "aggregation": "none",
+  "feature_type": "simple",
+  "metrics": {
+    "accuracy": 0.543035993740219,
+    "precision": 0.30917874396135264,
+    "recall": 0.3004694835680751,
+    "f1": 0.3047619047619048,
+    "auc_roc": 0.482394366197183
+  }
+}

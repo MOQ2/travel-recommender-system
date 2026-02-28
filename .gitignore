@@ -1,0 +1,26 @@
+# Python cache / virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large or generated project artifacts
+models/
+data/raw/
+data/features/
+results/metrics/skipped-files/
+results/skipped-files/
+report/
+*.joblib
+*.npy
+
+# Local scratch files
+top_urls.txt
+url_check.txt
+
+# OS files
+.DS_Store
+Thumbs.db

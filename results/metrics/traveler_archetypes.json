@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "\ud83e\udd7e Nature Adventurer",
+    "description": "Prefers outdoor and nature activities",
+    "size": 31,
+    "avg_activity_diversity": 3.2903225806451615,
+    "avg_country_diversity": 9.35483870967742,
+    "primary_activity": "Nature"
+  },
+  "1": {
+    "name": "\ud83c\udfaf Focused Traveler (Nature)",
+    "description": "Concentrated preferences around Nature",
+    "size": 14,
+    "avg_activity_diversity": 2.4285714285714284,
+    "avg_country_diversity": 6.571428571428571,
+    "primary_activity": "Nature"
+  },
+  "2": {
+    "name": "\ud83c\udfaf Focused Traveler (History)",
+    "description": "Concentrated preferences around History",
+    "size": 1,
+    "avg_activity_diversity": 2.0,
+    "avg_country_diversity": 6.0,
+    "primary_activity": "History"
+  },
+  "3": {
+    "name": "\ud83c\udfaf Focused Traveler (Nature)",
+    "description": "Concentrated preferences around Nature",
+    "size": 21,
+    "avg_activity_diversity": 2.0,
+    "avg_country_diversity": 9.523809523809524,
+    "primary_activity": "Nature"
+  },
+  "4": {
+    "name": "\ud83e\udd7e Nature Adventurer",
+    "description": "Prefers outdoor and nature activities",
+    "size": 22,
+    "avg_activity_diversity": 3.3636363636363638,
+    "avg_country_diversity": 9.136363636363637,
+    "primary_activity": "Nature"
+  }
+}
